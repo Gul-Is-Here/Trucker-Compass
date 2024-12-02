@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "769509512529",
+    "project_id": "trucker-compass",
+    "storage_bucket": "trucker-compass.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769509512529:android:4cf2fb284c7826869d2f70",
+        "android_client_info": {
+          "package_name": "csg.truckercompass.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY9qRRITEbNOZUPA_Pwf-kRGYtWn3oC-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
